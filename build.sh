@@ -64,6 +64,7 @@ CONFIGURE_STRING="--prefix=/usr/local/php7 \
                   --enable-zip \
                   --with-readline \
                   --with-curl \
+		  --with-xsl \
                   --enable-fpm \
                   --with-fpm-user=www-data \
                   --with-fpm-group=www-data"
